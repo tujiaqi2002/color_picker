@@ -1,0 +1,16 @@
+{
+  "name": "color_picker",
+  "version": "1.0.0",
+  "description": "基于色相偏移生成配色方案的在线色盘",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "test": "node --test"
+  },
+  "keywords": [
+    "color-picker",
+    "palette",
+    "hue"
+  ],
+  "license": "MIT"
+}
